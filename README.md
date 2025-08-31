@@ -76,14 +76,3 @@ This project provides a Business Intelligence (BI) dashboard that allows users t
 ## API Endpoints
 - **Please check it in** `/public/python-api/app/routes.py`
 
-## Contributing
-If you want to contribute to this project, please fork the repository, create a new branch, make your changes, and submit a pull request. We welcome all contributions!
-
-## Contact
-If you have any questions, please contact us at nguyentinvs123@gmail.com.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file if it contains for details.
-
-## Final Score
-This project is part of the **Comprehensive Project in the Information Systems Orientation** and achieved a final score of **9.5/10** over 7 days of development.
